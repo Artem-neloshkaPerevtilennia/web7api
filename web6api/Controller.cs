@@ -21,8 +21,7 @@ public class Controller : ControllerBase
 	public IActionResult GetRecords()
 	{
 		if (_storage.Count == 0) return BadRequest(new { message = "Empty storage" });
-		var storage = _storage;
-		_storage.Clear();
+		var storage = _storage[_storage.Count - 1];
 		return Ok(storage);
 	}
 
