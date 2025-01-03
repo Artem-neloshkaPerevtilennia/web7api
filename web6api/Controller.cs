@@ -23,7 +23,7 @@ public class Controller : ControllerBase
 		_storage.Sort((r1, r2) => int.Parse(r1.Id!).CompareTo(int.Parse(r2.Id!)));
 		if (_storage.Count == 0) return BadRequest(new { message = "Empty storage" });
 		var storage = _storage;
-		_storage = [];
+		_storage.Clear();
 		return Ok(storage);
 	}
 

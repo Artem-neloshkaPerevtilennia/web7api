@@ -2,7 +2,7 @@ var builder = WebApplication.CreateBuilder();
 
 builder.Services.AddCors(options =>
 {
-    options.AddPolicy("AllowGithubIO",
+    options.AddPolicy("AllowSpecificOrigin",
         policy =>
         {
             policy.WithOrigins("https://artem-neloshkaperevtilennia.github.io").AllowAnyMethod().AllowAnyHeader();
@@ -22,7 +22,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
-app.UseCors("AllowGithubIO");
+app.UseCors("AllowSpecificOrigin");
 app.UseDefaultFiles();
 app.UseStaticFiles();
 
