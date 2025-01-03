@@ -1,0 +1,67 @@
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\appsettings.Development.json
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\appsettings.json
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.exe
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.deps.json
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.runtimeconfig.json
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.dll
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.pdb
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.csproj.AssemblyReference.cache
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.GeneratedMSBuildEditorConfig.editorconfig
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.AssemblyInfoInputs.cache
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.AssemblyInfo.cs
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.csproj.CoreCompileInputs.cache
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.MvcApplicationPartsAssemblyInfo.cs
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.MvcApplicationPartsAssemblyInfo.cache
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets.build.json
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets.development.json
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.web6api.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.build.web6api.props
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web6api.props
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web6api.props
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\scopedcss\bundle\web6api.styles.css
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.csproj.Up2Date
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.dll
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\refint\web6api.dll
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.pdb
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.genruntimeconfig.cache
+E:\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\ref\web6api.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\appsettings.Development.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\appsettings.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.exe
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.deps.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.runtimeconfig.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\web6api.pdb
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.csproj.AssemblyReference.cache
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.GeneratedMSBuildEditorConfig.editorconfig
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.AssemblyInfoInputs.cache
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.AssemblyInfo.cs
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.csproj.CoreCompileInputs.cache
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.MvcApplicationPartsAssemblyInfo.cs
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.MvcApplicationPartsAssemblyInfo.cache
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.sourcelink.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets.build.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets.development.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.web6api.Microsoft.AspNetCore.StaticWebAssets.props
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.build.web6api.props
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.web6api.props
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.web6api.props
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\staticwebassets.pack.json
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\scopedcss\bundle\web6api.styles.css
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.csproj.CopyComplete
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\refint\web6api.dll
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.pdb
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\web6api.genruntimeconfig.cache
+c:\KPI\3 semestr\web\Lab 6\Нова папка (2)\Нова папка (2)\web6api\web6api\obj\Debug\net8.0\ref\web6api.dll

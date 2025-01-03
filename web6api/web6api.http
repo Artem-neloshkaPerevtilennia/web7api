@@ -1,0 +1,6 @@
+@web6api_HostAddress = http://localhost:5024
+
+GET {{web6api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
